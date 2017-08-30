@@ -1,0 +1,15 @@
+button {
+	margin-left: 10px;
+}
+
+.panel-body a:hover {
+	text-decoration: none;
+}
+
+.panel-heading button {
+	margin-top: 5px;
+}
+
+textarea {
+	resize: none;
+}
